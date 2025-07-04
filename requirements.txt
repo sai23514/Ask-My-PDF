@@ -1,0 +1,6 @@
+streamlit
+openai>=0.28.0
+PyMuPDF
+PyPDF2
+pdfplumber  
+fitz
